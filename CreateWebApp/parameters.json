@@ -1,0 +1,63 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "namedValues_5ec391b067f8ed18c04bf7fc_value": {
+            "value": null
+        },
+        "namedValues_5ecb4b3367f8ed18c04c0629_value": {
+            "value": null
+        },
+        "namedValues_5ecb4b8e67f8ed18c04c062c_value": {
+            "value": null
+        },
+        "namedValues_5ecb4be067f8ed18c04c062f_value": {
+            "value": null
+        },
+        "namedValues_5ecb4c2367f8ed18c04c0632_value": {
+            "value": null
+        },
+        "namedValues_5ecbd6b467f8ed18c04c0a96_value": {
+            "value": null
+        },
+        "namedValues_INGPassword_value": {
+            "value": null
+        },
+        "namedValues_InWSSecPass_value": {
+            "value": null
+        },
+        "namedValues_MLKPassword_value": {
+            "value": null
+        },
+        "namedValues_SCVPassword_value": {
+            "value": null
+        },
+        "namedValues_UNIPassword_value": {
+            "value": null
+        },
+        "namedValues_VANPassword_value": {
+            "value": null
+        },
+        "subscriptions_5eb557b472851c0040070001_displayName": {
+            "value": null
+        },
+        "subscriptions_5eb557b572851c0040070002_displayName": {
+            "value": null
+        },
+        "subscriptions_5ebc8ef667f8ed18c04be86e_displayName": {
+            "value": null
+        },
+        "users_1_lastName": {
+            "value": null
+        },
+        "service_JP_DEV_API_01_name": {
+            "value": null
+        },
+        "virtualNetworks_MFCv2_Internal_JPE_Development_S1_externalid": {
+            "value": null
+        },
+        "components_JP_DEV_API_01_INSIGHT_externalid": {
+            "value": null
+        }
+    }
+}
